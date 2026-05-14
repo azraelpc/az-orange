@@ -1,4 +1,4 @@
-# AZ's OrangeTV EPG (v0.2)
+# AZ's OrangeTV EPG (v0.2b)
 
 A lightweight web application built with Flask to visualize the Electronic Program Guide (EPG) for Orange TV Spain. It features a dark mode optimized design and a smart tracking system for your most-watched channels.
 
