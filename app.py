@@ -344,4 +344,4 @@ if __name__ == "__main__":
     if not os.path.exists(STATS_FILE):
         guardar_stats({})
     
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=False)
