@@ -1,6 +1,9 @@
-# AZ's OrangeTV EPG (v0.2b)
+# AZ's "Orange TV Libre" EPG (v0.2b)
 
-A lightweight web application built with Flask to visualize the Electronic Program Guide (EPG) for Orange TV Spain. It features a dark mode optimized design and a smart tracking system for your most-watched channels.
+A lightweight web application built with Flask to visualize the Electronic Program Guide (EPG) for Orange TV Libre from Spain. 
+Orange TV ibre: https://orangetv.orange.es/brw/Home_Inicio?bci=hm
+
+It features a dark mode optimized design and a smart tracking system for your most-watched channels.
 
 Demo site: https://orange.azraelpc.com/
 
@@ -40,7 +43,6 @@ Demo site: https://orange.azraelpc.com/
 
 ## Security and Deployment Notes
 
-- Development Environment: The Flask server starts with `debug=True`. It is highly recommended to change this to `False` or use a WSGI server (such as gunicorn) for deployments outside of secure local networks.
 - Gitignore: It is recommended to add `stats_clics.json`, `stats_clics.json.tmp`, and `__pycache__` folders to your repository's `.gitignore` file.
 
 ## Disclaimer
