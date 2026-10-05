@@ -1,4 +1,4 @@
-# AZ's "Orange TV Libre" EPG (v0.2b)
+# AZ's "Orange TV Libre" EPG (v0.2c)
 
 A lightweight web application built with Flask to visualize the Electronic Program Guide (EPG) for Orange TV Libre from Spain. 
 Orange TV ibre: https://orangetv.orange.es/brw/Home_Inicio?bci=hm
