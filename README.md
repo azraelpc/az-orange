@@ -1,4 +1,4 @@
-# AZ's "Orange TV Libre" EPG (v0.2c)
+# AZ's "Orange TV Libre" EPG (v0.2c) - 05.OCT.2026
 
 A lightweight web application built with Flask to visualize the Electronic Program Guide (EPG) for Orange TV Libre from Spain. 
 Orange TV ibre: https://orangetv.orange.es/brw/Home_Inicio?bci=hm
@@ -36,6 +36,10 @@ Demo site: https://orange.azraelpc.com/
    python app.py
 
 2. Access the application through your browser at: http://localhost:5000
+
+## Changelog
+
+05.OCT.2026 - Changed type U7D to retro-epg as it changed in the Orange website, preventing to load.
 
 ## Technical Details
 
